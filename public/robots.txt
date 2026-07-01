@@ -1,0 +1,29 @@
+# public/robots.txt
+#
+# Explicitly allowing major AI/LLM crawlers in addition to the default
+# allow-all. Most allow by default if not blocked, but being explicit
+# protects against a future "block AI crawlers" toggle accidentally
+# flipped at the host/CDN level, and signals clear intent.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+Sitemap: https://www.performa.co.id/sitemap.xml
