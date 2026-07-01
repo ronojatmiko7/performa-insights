@@ -44,14 +44,7 @@ async function getPost(slug: string): Promise<WPPost | null> {
   return posts[0] ?? null;
 }
 
-// Pre-builds every known post at build time. New posts published
-// after deploy still work via ISR (revalidate above) or you can
-// trigger a redeploy from a WordPress webhook on publish.
-export async function generateStaticParams() {
-  const res = await fetch(`${WP_BASE}/posts?per_page=100&_fields=slug`);
-  const posts: { slug: string }[] = await res.json();
-  return posts.map((p) => ({ slug: p.slug }));
-}
+export const dynamic = 'force-dynamic';
 
 // SEO: per-post meta tags, generated server-side so they're present
 // in the initial HTML response (not injected after JS loads).
