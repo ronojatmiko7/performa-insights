@@ -5,6 +5,8 @@
 
 import Link from "next/link";
 
+export const dynamic = 'force-dynamic';
+
 const WP_BASE = process.env.WP_API_URL || "https://insights.performa.co.id/wp-json/wp/v2";
 
 interface WPPostSummary {
