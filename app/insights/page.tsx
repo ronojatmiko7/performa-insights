@@ -5,7 +5,7 @@
 
 import Link from "next/link";
 
-const WP_BASE = "https://insights.performa.co.id/wp-json/wp/v2";
+const WP_BASE = process.env.WP_API_URL || "https://insights.performa.co.id/wp-json/wp/v2";
 
 interface WPPostSummary {
   slug: string;

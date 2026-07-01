@@ -13,7 +13,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
-const WP_BASE = "https://insights.performa.co.id/wp-json/wp/v2";
+const WP_BASE = process.env.WP_API_URL || "https://insights.performa.co.id/wp-json/wp/v2";
 
 interface WPPost {
   id: number;
