@@ -2,9 +2,11 @@ import Link from "next/link";
 import { getAllPosts } from "../../lib/posts";
 
 export const metadata = {
-  title: "Insights | Performa International Indonesia",
+  // The layout's title template appends "| Performa International Indonesia".
+  title: "Insights",
   description:
     "Leadership, KPI, dan transformasi organisasi — insight dari konsultan Performa International Indonesia.",
+  alternates: { canonical: "/insights" },
 };
 
 export default function InsightsIndexPage() {
