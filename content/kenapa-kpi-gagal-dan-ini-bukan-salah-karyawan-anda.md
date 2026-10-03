@@ -19,7 +19,7 @@ Ia terdiam cukup lama.
 
 Inilah kesalahan paling mahal yang dilakukan sebagian besar perusahaan Indonesia. Ketika KPI tidak tercapai, yang diganti adalah orangnya — bukan sistemnya.
 
-Geoff Rummler dan Alan Brache, dua peneliti organisasi yang karyanya banyak mempengaruhi cara saya melihat masalah kinerja, membuktikan lewat riset puluhan tahun bahwa lebih dari 80% masalah kinerja bersumber dari sistem, bukan dari individu. Dengan kata lain, ketika karyawan Anda gagal memenuhi KPI, kemungkinan besar bukan karena mereka malas atau tidak kompeten — melainkan karena sistem di sekitar mereka tidak mendukung mereka untuk berhasil.
+Geary Rummler dan Alan Brache, dua peneliti organisasi yang karyanya banyak mempengaruhi cara saya melihat masalah kinerja, membuktikan lewat riset puluhan tahun bahwa lebih dari 80% masalah kinerja bersumber dari sistem, bukan dari individu. Dengan kata lain, ketika karyawan Anda gagal memenuhi KPI, kemungkinan besar bukan karena mereka malas atau tidak kompeten — melainkan karena sistem di sekitar mereka tidak mendukung mereka untuk berhasil.
 
 Lalu mengapa kita terus menyalahkan orangnya? Jawabannya sederhana: karena itu lebih mudah. Mengganti orang terasa seperti tindakan nyata. Sebaliknya, memperbaiki sistem terasa seperti pekerjaan panjang yang tidak ada habisnya.
 
