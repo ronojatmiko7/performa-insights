@@ -1,6 +1,8 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getPostBySlug, getPostSlugs } from "../../../lib/posts";
+import { getPostBySlug, getPostSlugs, getRelatedPosts } from "../../../lib/posts";
+import { POSTS_PATH, SITE_NAME, SITE_URL, postUrl } from "../../../lib/site";
 
 export async function generateStaticParams() {
   return getPostSlugs().map((slug) => ({ slug }));
@@ -10,17 +12,24 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const post = await getPostBySlug(slug);
   if (!post) return {};
+  const { meta } = post;
   return {
-    title: post.meta.title,
-    description: post.meta.excerpt,
-    alternates: { canonical: `https://insights.performa.co.id/insights/${post.meta.slug}` },
+    // absolute: keep the full headline in the search result, no site-name suffix eating the character budget.
+    title: { absolute: meta.title },
+    description: meta.excerpt,
+    keywords: meta.tags,
+    authors: [{ name: meta.author }],
+    alternates: { canonical: postUrl(meta.slug) },
     openGraph: {
-      title: post.meta.title,
-      description: post.meta.excerpt,
+      title: meta.title,
+      description: meta.excerpt,
       type: "article",
-      publishedTime: post.meta.date,
-      images: post.meta.coverImage ? [{ url: post.meta.coverImage }] : undefined,
-      url: `https://insights.performa.co.id/insights/${post.meta.slug}`,
+      publishedTime: meta.date,
+      modifiedTime: meta.updated ?? meta.date,
+      authors: [meta.author],
+      tags: meta.tags,
+      images: meta.coverImage ? [{ url: meta.coverImage }] : undefined,
+      url: postUrl(meta.slug),
     },
   };
 }
@@ -30,35 +39,78 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const post = await getPostBySlug(slug);
   if (!post) notFound();
 
-  const jsonLd = {
+  const { meta } = post;
+  const related = getRelatedPosts(meta.slug, meta.tags);
+
+  const articleLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: post.meta.title,
-    datePublished: post.meta.date,
-    dateModified: post.meta.date,
-    author: { "@type": "Person", name: post.meta.author },
+    headline: meta.title,
+    description: meta.excerpt,
+    inLanguage: "id-ID",
+    keywords: meta.tags?.join(", "),
+    datePublished: meta.date,
+    dateModified: meta.updated ?? meta.date,
+    author: { "@type": "Person", name: meta.author },
     publisher: {
       "@type": "Organization",
-      name: "Performa International Indonesia",
+      name: SITE_NAME,
       logo: { "@type": "ImageObject", url: "https://i.ibb.co.com/qMHcWzjh/Logo-Only-performa.png" },
     },
-    image: post.meta.coverImage ? [post.meta.coverImage] : undefined,
-    mainEntityOfPage: `https://insights.performa.co.id/insights/${post.meta.slug}`,
+    image: meta.coverImage ? [meta.coverImage] : undefined,
+    mainEntityOfPage: postUrl(meta.slug),
   };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Insights", item: `${SITE_URL}${POSTS_PATH}` },
+      { "@type": "ListItem", position: 2, name: meta.title, item: postUrl(meta.slug) },
+    ],
+  };
+
+  const formatDate = (d: string) =>
+    new Date(d).toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric" });
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <article className="prose prose-lg mx-auto max-w-3xl px-4 py-12">
-        <h1 className="mb-2">{post.meta.title}</h1>
+        <nav aria-label="Breadcrumb" className="not-prose mb-6 text-sm text-gray-500">
+          <Link href={POSTS_PATH} className="hover:underline">
+            Insights
+          </Link>
+        </nav>
+        <h1 className="mb-2">{meta.title}</h1>
         <p className="text-sm text-gray-500 mb-8">
-          {post.meta.author} · {new Date(post.meta.date).toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric" })}
+          {meta.author} · {formatDate(meta.date)}
+          {meta.updated && meta.updated !== meta.date ? ` · Diperbarui ${formatDate(meta.updated)}` : ""}
         </p>
-        {post.meta.coverImage && (
-          <img src={post.meta.coverImage} alt={post.meta.title} className="w-full rounded-lg mb-8" />
+        {meta.coverImage && (
+          <img src={meta.coverImage} alt={meta.title} className="w-full rounded-lg mb-8" />
         )}
         <div dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>
+
+      {related.length > 0 && (
+        <aside className="mx-auto max-w-3xl px-4 pb-16" aria-labelledby="related-heading">
+          <h2 id="related-heading" className="text-xl font-semibold mb-4">
+            Baca juga
+          </h2>
+          <ul className="space-y-3">
+            {related.map((p) => (
+              <li key={p.slug}>
+                <Link href={`${POSTS_PATH}/${p.slug}`} className="font-medium hover:underline">
+                  {p.title}
+                </Link>
+                <p className="text-sm text-gray-600 line-clamp-2">{p.excerpt}</p>
+              </li>
+            ))}
+          </ul>
+        </aside>
+      )}
     </>
   );
 }
