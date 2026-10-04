@@ -2,16 +2,17 @@
 title: "Diagnosis Kinerja Organisasi: Empat Lapisan Tempat Kinerja Macet"
 slug: "diagnosis-kinerja-organisasi"
 date: "2026-10-03"
+updated: "2026-10-04"
 author: "Rono Jatmiko"
 excerpt: "Kinerja organisasi jarang macet di satu tempat. Ia macet di salah satu dari empat lapisan: strategi, organisasi, proses, atau individu. Ini cara membacanya, berurutan."
 tags: ["Diagnosis Kinerja", "Manajemen Kinerja", "Kinerja Organisasi", "Rummler-Brache"]
 ---
 
-Kinerja organisasi macet di salah satu dari empat lapisan: strategi, organisasi, proses, atau individu. Sebagian besar perusahaan memperbaiki lapisan yang salah.
+Kinerja organisasi macet di salah satu dari empat lapisan: strategi, organisasi, proses, atau individu. Banyak perusahaan memperbaiki lapisan yang salah.
 
 Targetnya meleset, lalu kita kirim tim ke pelatihan. Padahal masalahnya ada di proses. Atau kita menulis SOP baru, padahal masalahnya ada di dua target yang saling bertabrakan. Biayanya habis, hasilnya tetap sama.
 
-Geary Rummler dan Alan Brache menghabiskan puluhan tahun meneliti hal ini. Temuan mereka sederhana: sebagian besar masalah kinerja bersumber dari sistem di sekitar orang, bukan dari orangnya. Artinya, sebelum menyentuh orang, kita harus tahu lapisan mana yang rusak. Itulah yang disebut diagnosis kinerja organisasi.
+Geary Rummler dan Alan Brache menulis, berdasarkan pengalaman mereka, bahwa sekitar 80% peluang perbaikan kinerja ada di lingkungan kerja, bukan di orangnya. Itu perkiraan, bukan hasil eksperimen, tetapi arahnya sejalan dengan W. Edwards Deming, yang memperkirakan 94% masalah ada di sistem. Artinya, sebelum menyentuh orang, kita harus tahu lapisan mana yang rusak. Itulah yang disebut diagnosis kinerja organisasi.
 
 ## Empat lapisan, empat pertanyaan
 
@@ -42,9 +43,11 @@ Gejala paling jelas: SOP sudah ada, tetapi tidak dijalankan. Banyak orang langsu
 
 ## Lapisan 4: Individu
 
-Individu adalah lapisan terakhir yang kita periksa, bukan yang pertama. Kebanyakan perusahaan melakukan sebaliknya. Masalah kinerja muncul, lalu jawaban otomatisnya adalah pelatihan.
+Individu adalah lapisan terakhir yang kita periksa, bukan yang pertama. Banyak perusahaan melakukan sebaliknya. Masalah kinerja muncul, lalu jawaban otomatisnya adalah pelatihan.
 
 Pelatihan efektif ketika tiga lapisan di atasnya sehat dan orang memang kekurangan pengetahuan atau keterampilan. Di luar kondisi itu, pelatihan hanya mengirim orang kembali ke sistem yang sama. Mereka pulang dengan semangat, lalu sistemnya menang.
+
+Pola ini sudah didokumentasikan. Michael Beer, Magnus Finnström, dan Derek Schrader, peneliti dan konsultan transformasi organisasi, menulis di *Harvard Business Review* (2016) bahwa pelatihan kepemimpinan gagal terutama karena konteks organisasinya, bukan karena programnya. Menurut artikel itu, perusahaan menghabiskan sekitar US$160 miliar di Amerika Serikat dan US$356 miliar di seluruh dunia untuk pelatihan pada 2015, tetapi orang cepat kembali ke kebiasaan lama. Dua dari enam hambatan yang mereka temukan adalah arah strategi yang tidak jelas dan desain organisasi yang buruk. Itu lapisan 1 dan 2 di atas.
 
 ## Cara membaca: berurutan, dengan data
 
@@ -57,6 +60,12 @@ Jika tiga lapisan pertama sehat dan kinerja tetap macet, maka masalahnya ada di 
 Ambil satu target yang meleset dalam enam bulan terakhir. Tuliskan empat pertanyaan di atas, lalu jawab satu per satu dengan bukti. Catat lapisan pertama yang jawabannya "tidak". Mulai perbaikan dari lapisan itu, bukan dari lapisan yang paling mudah dijangkau.
 
 *Fix the system before you blame the people.*
+
+## Sumber
+
+- Rummler, G. A. dan Brache, A. P. *Improving Performance*. Perkiraan sekitar 80% dikutip dalam [Dave's Whiteboard](https://www.daveswhiteboard.com/archives/series/rummler-brache-improving-performance).
+- Deming, W. E. *Out of the Crisis*. Perkiraan 94% dikutip dalam [Digestible Deming](https://digestibledeming.substack.com/p/whos-to-blame).
+- Beer, M., Finnström, M., dan Schrader, D. (2016). [Why Leadership Training Fails—and What to Do About It](https://hbr.org/2016/10/why-leadership-training-fails-and-what-to-do-about-it). *Harvard Business Review*.
 
 Semoga bermanfaat.
 
