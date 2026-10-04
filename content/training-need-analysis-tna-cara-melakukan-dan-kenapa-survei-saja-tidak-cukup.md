@@ -1,31 +1,48 @@
 ---
-title: "Training Need Analysis (TNA): Cara Melakukan, dan Kenapa Survei Saja Tidak Cukup"
+title: "Training Need Analysis (TNA): Mulai dari KPI yang Meleset, Bukan dari Daftar Topik"
 slug: "training-need-analysis-tna-cara-melakukan-dan-kenapa-survei-saja-tidak-cukup"
 date: "2026-10-04"
 author: "Rono Jatmiko"
-excerpt: "Training need analysis (TNA) menentukan siapa yang perlu dilatih, dalam hal apa, dan apakah pelatihan memang jawabannya. Cara melakukannya, dan kenapa survei kebutuhan saja tidak cukup."
+excerpt: "Training need analysis (TNA) menentukan pelatihan apa yang dibutuhkan, dan apakah pelatihan memang jawabannya. Mulailah dari KPI yang meleset, lalu pisahkan faktor kompetensi dari non-kompetensi."
 tags: ["Training Need Analysis", "TNA", "Pelatihan", "Diagnosis Kinerja"]
 ---
 
-Training Need Analysis (TNA) adalah proses menentukan siapa yang perlu dilatih, dalam hal apa, dan apakah pelatihan memang jawaban dari masalahnya. Bagian terakhir itu yang paling sering terlewat.
+Training Need Analysis (TNA) adalah proses menentukan siapa yang perlu dilatih, dalam hal apa, dan apakah pelatihan memang jawaban dari masalahnya. TNA yang baik dimulai dari KPI yang meleset, bukan dari daftar topik yang dicentang peserta.
 
 Salas dan rekan-rekannya, dalam tinjauan riset pelatihan yang terbit pada 2012 di *Psychological Science in the Public Interest*, menyebut TNA sebagai diagnosis: apa yang perlu dilatih, kepada siapa, dan dalam sistem organisasi seperti apa. Kata kuncinya diagnosis. Bukan daftar permintaan.
 
-## Bentuk TNA yang paling sering kita temui
+1. Setiap organisasi yang serius mengembangkan orang membutuhkan TNA. No debat.
+2. Yang perlu kita bahas adalah dari mana TNA dimulai.
 
-Dalam pengalaman saya, TNA di banyak organisasi berbentuk formulir. HRD mengirim daftar topik, karyawan dan atasan mencentang yang mereka mau, lalu topik dengan centang terbanyak masuk kalender pelatihan tahun depan. Rapi, cepat, mudah dilaporkan.
+## Dua cara membuka TNA
 
-Formulir ini punya dua masalah. Ia mengukur keinginan, bukan kesenjangan kinerja: orang memilih topik yang mereka kenal, bukan topik yang mengubah hasil kerja mereka. Dan ia sudah mengandaikan jawabannya sebelum pertanyaannya diajukan, yaitu pelatihan.
+Bandingkan dua percakapan ini.
 
-## Di mana praktik ini patah
+**Cara yang salah:**
 
-**Pelatihan bukan obat untuk semua kesenjangan.** Robert Mager dan Peter Pipe, dalam buku *Analyzing Performance Problems*, menyusun pertanyaan yang harus dijawab sebelum pelatihan dipilih: apakah ada hambatan di lingkungan kerja, apakah insentif dan umpan balik mendukung, apakah harapannya jelas. Pelatihan cocok hanya ketika orang memang belum tahu cara mengerjakannya. Ini model dari praktisi, bukan hasil eksperimen, tetapi urutan pertanyaannya sejalan dengan empat lapisan di [Diagnosis Kinerja Organisasi](/insights/diagnosis-kinerja-organisasi).
+> "Pelatihan apa yang Anda butuhkan tahun ini?"
 
-**Konteks organisasi sering menghapus hasil pelatihan.** Michael Beer, Magnus Finnström, dan Derek Schrader menulis di *Harvard Business Review* (2016) bahwa pelatihan kepemimpinan gagal terutama karena konteks organisasinya. Perusahaan menghabiskan sekitar US$356 miliar di seluruh dunia untuk pelatihan pada 2015, tetapi orang cepat kembali ke kebiasaan lama. Dua dari enam hambatan yang mereka temukan adalah arah strategi yang tidak jelas dan desain organisasi yang buruk.
+Jawabannya adalah topik yang populer, topik yang pernah didengar, atau topik yang sedang ramai dibicarakan. Daftar itu masuk kalender pelatihan.
 
-Riset transfer pelatihan mengarah ke hal serupa. Meta-analisis Blume dan rekan (2010) menemukan dukungan lingkungan kerja berkorelasi dengan penerapan pelatihan di pekerjaan: r = 0,23 dari 22 studi, dan 0,31 untuk dukungan atasan, meskipun yang terakhir berasal dari sedikit studi. Hubungannya sedang, bukan jimat. Penulisnya sendiri menegaskan tidak ada satu faktor yang menjadi jawaban tunggal.
+**Cara yang benar:**
 
-**Hasil pelatihan menurun kalau tidak dikawal.** Survei Saks dan Belcourt (2006) menemukan 62% responden melaporkan menerapkan isi pelatihan segera setelahnya, 44% setelah enam bulan, dan 34% setelah satu tahun. Angka "hanya 10% materi pelatihan terpakai" yang sering dikutip lemah dasarnya, dan survei ini menunjukkan angka yang lebih tinggi. Tetapi arahnya tetap turun, dan datanya laporan responden, bukan pengukuran perilaku.
+> "KPI mana yang meleset tahun ini, dan apa yang membuatnya meleset?"
+
+Jawabannya adalah masalah bisnis yang nyata, lengkap dengan angka. Dari sini kita bisa menanyakan hal yang menentukan: apakah penyebabnya kompetensi atau non-kompetensi?
+
+Pertanyaan pertama mengukur keinginan. Pertanyaan kedua mengukur kesenjangan kinerja. (Setelah pelatihan selesai, KPI mana yang akan bergerak?)
+
+Dalam pengalaman saya, TNA di banyak organisasi berbentuk formulir dengan pertanyaan pertama. HRD mengirim daftar topik, karyawan dan atasan mencentang yang mereka mau, lalu topik dengan centang terbanyak masuk kalender tahun depan. Rapi, cepat, mudah dilaporkan. Dan sudah mengandaikan jawabannya sebelum pertanyaannya diajukan.
+
+## Di mana daftar topik patah
+
+**Pelatihan hanya menjawab satu jenis penyebab.** Robert Mager dan Peter Pipe, dalam buku *Analyzing Performance Problems*, menyusun pertanyaan yang harus dijawab sebelum pelatihan dipilih: apakah ada hambatan di lingkungan kerja, apakah insentif dan umpan balik mendukung, apakah harapannya jelas. Terjemahannya sederhana: orang yang tidak mengerjakan sesuatu belum tentu tidak bisa mengerjakannya. Ini model dari praktisi, bukan hasil eksperimen, tetapi urutannya sejalan dengan empat lapisan di [Diagnosis Kinerja Organisasi](/insights/diagnosis-kinerja-organisasi).
+
+**Konteks organisasi sering menghapus hasil pelatihan.** Michael Beer, Magnus Finnström, dan Derek Schrader menulis di *Harvard Business Review* (2016) bahwa pelatihan kepemimpinan gagal terutama karena konteks organisasinya. Perusahaan menghabiskan sekitar US$356 miliar di seluruh dunia untuk pelatihan pada 2015, tetapi orang cepat kembali ke kebiasaan lama. Dua dari enam hambatan yang mereka temukan adalah arah strategi yang tidak jelas dan desain organisasi yang buruk. Artinya, peserta pulang dengan semangat, lalu sistem yang sama sudah menunggu di meja kerja.
+
+Meta-analisis Blume dan rekan (2010) atas riset transfer pelatihan mengarah ke hal serupa. Dukungan lingkungan kerja berkorelasi dengan penerapan pelatihan di pekerjaan: r = 0,23 dari 22 studi, dan 0,31 untuk dukungan atasan, meskipun yang terakhir berasal dari sedikit studi. Hubungannya sedang, bukan jimat. Penulisnya sendiri menegaskan tidak ada satu faktor yang menjadi jawaban tunggal.
+
+**Hasil pelatihan menurun kalau tidak dikawal.** Survei Saks dan Belcourt (2006) menemukan 62% responden melaporkan menerapkan isi pelatihan segera setelahnya, 44% setelah enam bulan, dan 34% setelah satu tahun. Angka "hanya 10% materi pelatihan terpakai" yang sering dikutip lemah dasarnya. Tetapi arahnya tetap turun, dan datanya laporan responden, bukan pengukuran perilaku.
 
 ## Ini bukan argumen melawan pelatihan
 
@@ -33,34 +50,48 @@ Pelatihan bekerja. Arthur dan rekan (2003) menganalisis ratusan studi dan menemu
 
 Satu hal perlu saya katakan terus terang. Saya tidak menemukan bukti eksperimental bahwa TNA yang lebih lengkap menghasilkan pelatihan yang lebih efektif. Meta-analisis yang sama hanya menemukan 22 dari 397 data point yang melaporkan needs assessment, dan polanya tidak jelas. Alasan kami menyarankan diagnosis lebih dulu bertumpu pada logika yang kuat dan pada riset tentang konteks di atas, bukan pada eksperimen yang membuktikan TNA.
 
-## Alternatif: mulai dari kesenjangan kinerja, bukan dari daftar keinginan
+## Alternatif: tiga langkah, dimulai dari KPI
 
 Balik urutannya. Mulai dari hasil kerja yang meleset, bukan dari topik pelatihan.
 
-1. **Tulis kesenjangannya dalam satu kalimat, dengan angka.** Harapan, kenyataan, siapa yang terlibat, sejak kapan. Contoh rekaan: "Tim penjualan area Timur menutup 18% proposal, targetnya 30%, sejak kuartal kedua."
-2. **Hitung ongkos kesenjangan itu.** Kesenjangan yang murah tidak layak dibahas panjang.
-3. **Jalankan empat pertanyaan di bawah, berurutan.** Berhenti di jawaban "tidak" yang pertama.
-4. **Baru di lapisan individu, lakukan analisis tugas dan orang.** Amati pekerjaannya langsung, bandingkan dengan performer terbaik, periksa data kinerja, wawancarai atasan. Survei boleh dipakai, tetapi untuk memilih format dan jadwal, bukan menentukan topik.
-5. **Sebelum pelatihan jalan, tetapkan siapa atasan yang memeriksa penerapannya dalam 30 hari, dan dengan ukuran apa.** Agar pelatihan tidak berhenti di ruang kelas.
+1. **Tunjuk satu KPI yang bermasalah, dan catat baseline-nya.** Angka sebelum apa pun dilakukan. Tanpa baseline, tidak ada before-after.
+2. **Pecah penyebabnya: faktor kompetensi atau non-kompetensi.** Jalankan empat pertanyaan di tabel berikut, berurutan, dengan data. Berhenti di jawaban "tidak" yang pertama.
+3. **Putuskan rekomendasinya.** Perbaiki kompetensi saja, atau kompetensi dan sistem sekaligus. Atau bukan kompetensi sama sekali.
 
-| Pertanyaan | Jika jawabannya "tidak", mulai dari |
+| Faktor | Pertanyaan | Jika jawabannya "tidak", mulai dari |
+|---|---|---|
+| Non-kompetensi: strategi | Apakah target dan prioritas orang ini jelas, dan turunan dari arah perusahaan? | Memperjelas target |
+| Non-kompetensi: organisasi | Apakah KPI, atasan, dan insentif mendorong perilaku yang diharapkan? | Memperbaiki sistem ukuran dan insentif |
+| Non-kompetensi: proses | Apakah alur kerja, alat, dan waktu memungkinkan pekerjaan dilakukan dengan benar? | Memperbaiki proses |
+| Kompetensi | Apakah orang ini tahu cara mengerjakannya, mampu melakukannya, dan mau? | Pelatihan, dengan pendampingan |
+
+Jika jawaban atas tiga pertanyaan pertama adalah "Ya", maka kompetensi menjadi tersangka berikutnya. Baru di titik itu pelatihan layak dipertimbangkan.
+
+Dari diagnosis ini lahir tiga jalur:
+
+| Hasil diagnosis | Jalur |
 |---|---|
-| Apakah target dan prioritas orang ini jelas, dan turunan dari arah perusahaan? | Memperjelas target (Strategi) |
-| Apakah KPI, atasan, dan insentif mendorong perilaku yang diharapkan? | Memperbaiki sistem ukuran dan insentif (Organisasi) |
-| Apakah alur kerja, alat, dan waktu memungkinkan pekerjaan dilakukan dengan benar? | Memperbaiki proses (Proses) |
-| Apakah orang ini tahu cara mengerjakannya, dan pernah berlatih? | Pelatihan (Individu) |
+| Masalah ada di kompetensi | Pelatihan, disusul proyek perbaikan KPI dan coaching |
+| Kompetensi dan sistem sama-sama bermasalah | Pelatihan dan perbaikan sistem berjalan paralel |
+| Masalahnya bukan kompetensi | Jangan beli pelatihan. Perbaiki proses, struktur, atau reward, lalu ukur ulang KPI |
 
-Pertanyaan kedua dan ketiga sering membawa kita ke topik yang sudah kami bahas: [Kenapa KPI Gagal?](/insights/kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda) dan [SOP Adalah: Pengertian, Cara Membuat, dan Kenapa Tidak Dijalankan](/insights/sop-adalah-pengertian-cara-membuat-dan-kenapa-tidak-dijalankan).
+Jalur ketiga yang paling sering mengejutkan. Anggaran pelatihan yang sudah disiapkan ternyata tidak perlu terpakai.
+
+Ada satu syarat di semua jalur: ukur ulang KPI yang sama. Dalam program kami, pengukuran ulang dilakukan 60 sampai 90 hari setelah pendampingan selesai, saat perilaku baru sudah diuji di pekerjaan nyata. Skor kepuasan peserta dan nilai post-test mudah didapat, dan keduanya bukan bukti. Bukti yang Anda butuhkan adalah KPI yang bergerak.
 
 ## Ilustrasi (hipotetis, bukan kasus klien)
 
-Seorang manajer meminta pelatihan negosiasi untuk tim penjualan karena tingkat penutupan proposal turun. Survei kebutuhan menempatkan negosiasi di urutan pertama, sehingga pelatihan dijadwalkan.
+Seorang direktur penjualan meminta pelatihan negosiasi karena tingkat penutupan proposal turun dari 30% ke 18%. Survei kebutuhan menempatkan negosiasi di urutan pertama.
 
-Dengan urutan di atas, pertanyaannya berubah. Target jelas. KPI sehat. Tetapi setiap proposal harus melewati dua persetujuan yang masing-masing memakan tiga hari, dan pelanggan memilih pesaing yang menjawab lebih cepat. Jawaban "tidak" yang pertama ada di lapisan proses. Pelatihan negosiasi tidak akan menyentuh masalah itu.
+Dengan tiga langkah di atas, pertanyaannya berubah. Target jelas. KPI sehat. Tetapi setiap proposal harus melewati dua persetujuan yang masing-masing memakan tiga hari, dan pelanggan memilih pesaing yang menjawab lebih cepat. Jawaban "tidak" yang pertama ada di proses. Hasilnya jalur ketiga: bukan pelatihan negosiasi, melainkan perbaikan alur persetujuan, lalu ukur ulang tingkat penutupan.
+
+Untuk membaca KPI yang meleset lebih jauh, lihat [KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya](/insights/kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya) dan [Kenapa KPI Gagal?](/insights/kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda). Jika sumbernya ada di proses, mulailah dari [SOP Adalah: Pengertian, Cara Membuat, dan Kenapa Tidak Dijalankan](/insights/sop-adalah-pengertian-cara-membuat-dan-kenapa-tidak-dijalankan).
+
+*Start from the KPI, not from the topic.*
 
 ## Mulai dari sini
 
-Ambil satu permintaan pelatihan yang masuk tahun ini. Tulis kesenjangan kinerja di baliknya dalam satu kalimat dengan angka, lalu jawab empat pertanyaan di atas dengan data. Jangan jadwalkan pelatihannya sebelum Anda menemukan lapisan mana yang pertama menjawab "tidak".
+Ambil satu permintaan pelatihan yang masuk tahun ini. Cari KPI di baliknya, catat angkanya hari ini, lalu jawab empat pertanyaan di tabel dengan data. Jangan jadwalkan pelatihannya sebelum Anda tahu pertanyaan mana yang pertama menjawab "tidak".
 
 ## Sumber
 
@@ -75,4 +106,4 @@ Semoga bermanfaat.
 
 ---
 
-*Rono Jatmiko adalah Managing Director PT Performa International Indonesia, konsultan manajemen dengan spesialisasi di sistem kinerja organisasi dan pengembangan kepemimpinan. Permintaan pelatihan di perusahaan Anda belum menggeser angka kinerja? [Hubungi kami](https://wa.me/6287770781950).*
+*Rono Jatmiko adalah Managing Director PT Performa International Indonesia, konsultan manajemen dengan spesialisasi di sistem kinerja organisasi dan pengembangan kepemimpinan. Ingin tahu apakah KPI yang meleset di organisasi Anda soal kompetensi atau bukan? [Hubungi kami](https://wa.me/6287770781950).*
