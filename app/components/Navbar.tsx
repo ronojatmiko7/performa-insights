@@ -29,9 +29,12 @@ export default function Navbar() {
             className="text-sm font-medium text-gray-600 hover:text-[#005073] transition-colors">
             Konsultan Kami
           </Link>
+          <Link href="/pelatihan"
+            className="text-sm font-medium text-gray-600 hover:text-[#005073] transition-colors">
+            Pelatihan
+          </Link>
           <Link href="/insights"
-            className="text-sm font-medium transition-colors"
-            style={{ color: "#005073", fontWeight: 600 }}>
+            className="text-sm font-medium text-gray-600 hover:text-[#005073] transition-colors">
             Insights
           </Link>
           <a href="https://wa.me/6287770781950"
@@ -68,9 +71,12 @@ export default function Navbar() {
             className="text-sm font-medium text-gray-700" onClick={() => setMenuOpen(false)}>
             Konsultan Kami
           </Link>
+          <Link href="/pelatihan"
+            className="text-sm font-medium text-gray-700" onClick={() => setMenuOpen(false)}>
+            Pelatihan
+          </Link>
           <Link href="/insights"
-            className="text-sm font-semibold" style={{ color: "#005073" }}
-            onClick={() => setMenuOpen(false)}>
+            className="text-sm font-medium text-gray-700" onClick={() => setMenuOpen(false)}>
             Insights
           </Link>
           <a href="https://wa.me/6287770781950"
