@@ -2,7 +2,7 @@
 title: "SOP Adalah: Pengertian, Cara Membuat, dan Kenapa Tidak Dijalankan"
 slug: "sop-adalah-pengertian-cara-membuat-dan-kenapa-tidak-dijalankan"
 date: "2026-10-03"
-updated: "2026-10-04"
+updated: "2026-10-07"
 author: "Rono Jatmiko"
 excerpt: "SOP adalah prosedur tertulis agar pekerjaan menghasilkan hasil yang sama. Isi, cara membuat, kenapa SOP tebal jarang dijalankan, dan alternatif yang terbukti."
 tags: ["SOP", "Proses Bisnis", "Manajemen Proses", "Diagnosis Kinerja"]
@@ -131,6 +131,8 @@ Tiga lapisan ini adalah bagian dari kerangka yang lebih luas. Lihat [Diagnosis K
 ## Mulai dari sini
 
 Pilih satu SOP yang paling sering dilanggar di organisasi Anda. Jangan tulis ulang dulu. Duduk bersama orang yang mengerjakannya selama satu jam, dan minta mereka menunjukkan pekerjaan terakhir yang mereka selesaikan. Bandingkan dengan SOP di atas kertas. Selisihnya adalah daftar perbaikan Anda.
+
+Jika selisihnya besar dan berulang, program kami untuk proses kerja ada di [Business & Process Excellence](/pelatihan/business-process-excellence).
 
 ## Sumber
 

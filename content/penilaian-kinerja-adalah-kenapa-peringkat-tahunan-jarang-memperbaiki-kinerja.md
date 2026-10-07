@@ -2,6 +2,7 @@
 title: "Penilaian Kinerja: Kenapa Peringkat Tahunan Jarang Memperbaiki Kinerja"
 slug: "penilaian-kinerja-adalah-kenapa-peringkat-tahunan-jarang-memperbaiki-kinerja"
 date: "2026-10-05"
+updated: "2026-10-07"
 author: "Rono Jatmiko"
 excerpt: "Penilaian kinerja adalah cara organisasi menilai seberapa baik seseorang bekerja terhadap sasaran yang disepakati. Ia memperbaiki kinerja hanya bila dipakai untuk percakapan, bukan sekadar peringkat."
 tags: ["Penilaian Kinerja", "Performance Appraisal", "Manajemen Kinerja", "Umpan Balik"]
@@ -72,6 +73,8 @@ Karena itu lapisan Individu diperiksa terakhir. Penjelasan lengkapnya ada di [Di
 ## Mulai dari sini
 
 Ambil hasil penilaian tahun lalu. Pilih lima karyawan dengan nilai terendah. Untuk masing-masing, tanyakan tiga hal: apakah sasarannya jelas dan masuk akal, apakah proses dan sumber dayanya mendukung, dan kapan terakhir kali atasannya membahas kinerjanya di luar formulir. Jika jawaban atas dua pertanyaan pertama adalah "Tidak", masalahnya belum tentu ada pada orangnya.
+
+Program kami untuk atasan yang memberi umpan balik ada di [Leadership & People Management](/pelatihan/leadership-people-management).
 
 ## Sumber
 

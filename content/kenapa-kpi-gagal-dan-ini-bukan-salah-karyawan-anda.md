@@ -2,7 +2,7 @@
 title: "Kenapa KPI Gagal? (Dan Ini Bukan Salah Karyawan Anda)"
 slug: "kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda"
 date: "2026-06-09"
-updated: "2026-10-04"
+updated: "2026-10-07"
 author: "Rono Jatmiko"
 excerpt: "Saat KPI meleset, banyak perusahaan mengganti orangnya, bukan sistemnya. Deming dan Rummler-Brache memperkirakan sebagian besar masalah ada di sistem."
 tags: ["KPI", "Sistem Kinerja", "Manajemen Kinerja", "Balanced Scorecard"]
@@ -71,6 +71,8 @@ Direktur dari Surabaya itu akhirnya tidak jadi memecat sales manager ketiganya. 
 Ambil satu KPI yang meleset dalam enam bulan terakhir. Sebelum mengganti orangnya, jawab tiga pertanyaan di atas dengan data. Catat yang pertama kali dijawab "tidak", lalu mulai perbaikan dari sana.
 
 KPI yang meleset hanyalah satu gejala. Untuk membaca penyebabnya lapisan demi lapisan, lihat [Diagnosis Kinerja Organisasi: Empat Lapisan Tempat Kinerja Macet](/insights/diagnosis-kinerja-organisasi).
+
+Jika Anda ingin menyusun KPI yang layak dipakai, mulailah dari [KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya](/insights/kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya).
 
 ## Sumber
 
