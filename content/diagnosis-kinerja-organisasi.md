@@ -2,7 +2,7 @@
 title: "Diagnosis Kinerja Organisasi: Empat Lapisan Tempat Kinerja Macet"
 slug: "diagnosis-kinerja-organisasi"
 date: "2026-10-03"
-updated: "2026-10-04"
+updated: "2026-10-07"
 author: "Rono Jatmiko"
 excerpt: "Kinerja organisasi jarang macet di satu tempat. Ia macet di salah satu dari empat lapisan: strategi, organisasi, proses, atau individu. Ini cara membacanya, berurutan."
 tags: ["Diagnosis Kinerja", "Manajemen Kinerja", "Kinerja Organisasi", "Rummler-Brache"]
@@ -33,7 +33,7 @@ Dalam konteks BUMN, lapisan ini biasanya terlihat dari satu hal: RJPP dan RKAP t
 
 Di sinilah KPI, struktur, dan insentif bertemu. Sales dikejar volume, sementara tim keuangan dikejar kehati-hatian kredit. Keduanya benar menurut ukuran masing-masing. Hasilnya, proposal bagus tertahan di meja yang berbeda dan pelanggan menunggu.
 
-Jangan buru-buru mengganti orangnya. Periksa dahulu apakah sistemnya memang membuat orang saling menghalangi. Kami membahas ini lebih dalam di [Kenapa KPI Gagal? (Dan Ini Bukan Salah Karyawan Anda)](/insights/kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda).
+Jangan buru-buru mengganti orangnya. Periksa dahulu apakah sistemnya memang membuat orang saling menghalangi. Kami membahas ini lebih dalam di [Kenapa KPI Gagal? (Dan Ini Bukan Salah Karyawan Anda)](/insights/kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda). Untuk menyusun KPI yang layak dipakai, baca [KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya](/insights/kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya). Untuk menilai orang terhadap KPI itu, baca [Penilaian Kinerja: Kenapa Peringkat Tahunan Jarang Memperbaiki Kinerja](/insights/penilaian-kinerja-adalah-kenapa-peringkat-tahunan-jarang-memperbaiki-kinerja).
 
 ## Lapisan 3: Proses
 
@@ -49,6 +49,8 @@ Pelatihan efektif ketika tiga lapisan di atasnya sehat dan orang memang kekurang
 
 Pola ini sudah didokumentasikan. Michael Beer, Magnus Finnström, dan Derek Schrader, peneliti dan konsultan transformasi organisasi, menulis di *Harvard Business Review* (2016) bahwa pelatihan kepemimpinan gagal terutama karena konteks organisasinya, bukan karena programnya. Menurut artikel itu, perusahaan menghabiskan sekitar US$160 miliar di Amerika Serikat dan US$356 miliar di seluruh dunia untuk pelatihan pada 2015, tetapi orang cepat kembali ke kebiasaan lama. Dua dari enam hambatan yang mereka temukan adalah arah strategi yang tidak jelas dan desain organisasi yang buruk. Itu lapisan 1 dan 2 di atas.
 
+Cara memeriksa apakah masalahnya memang kompetensi, langkah demi langkah, ada di [Training Need Analysis (TNA): Mulai dari KPI yang Meleset, Bukan dari Daftar Topik](/insights/training-need-analysis-tna-cara-melakukan-dan-kenapa-survei-saja-tidak-cukup).
+
 ## Cara membaca: berurutan, dengan data
 
 Jalankan empat pertanyaan di atas dari atas ke bawah. Jawab dengan data, bukan opini: dokumen target, data waktu proses, hasil wawancara, catatan keluhan pelanggan.
@@ -58,6 +60,8 @@ Jika tiga lapisan pertama sehat dan kinerja tetap macet, maka masalahnya ada di 
 ## Mulai dari sini
 
 Ambil satu target yang meleset dalam enam bulan terakhir. Tuliskan empat pertanyaan di atas, lalu jawab satu per satu dengan bukti. Catat lapisan pertama yang jawabannya "tidak". Mulai perbaikan dari lapisan itu, bukan dari lapisan yang paling mudah dijangkau.
+
+Jika Anda ingin menjalankan langkah ini bersama tim, lihat [katalog pelatihan Performa](/pelatihan) dan [cara kami bekerja](/pelatihan/metode).
 
 *Fix the system before you blame the people.*
 

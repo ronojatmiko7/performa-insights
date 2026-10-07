@@ -2,6 +2,7 @@
 title: "KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya"
 slug: "kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya"
 date: "2026-10-04"
+updated: "2026-10-07"
 author: "Rono Jatmiko"
 excerpt: "KPI adalah ukuran yang menunjukkan seberapa jauh pekerjaan bergerak menuju tujuan. Pengertian, contoh KPI per fungsi, cara menyusunnya, dan kenapa KPI yang rapi sering menyesatkan."
 tags: ["KPI", "Key Performance Indicator", "Contoh KPI", "Manajemen Kinerja"]
@@ -64,6 +65,8 @@ Satu hal perlu saya katakan terus terang. Saya tidak menemukan bukti eksperiment
 Ambil satu peran, misalnya manajer penjualan Anda. Tuliskan semua KPI-nya. Coret setiap KPI yang tidak bisa ditelusuri ke tiga prioritas strategis tahun ini, lalu periksa apakah tiap KPI yang tersisa punya indikator penggerak. Bawa hasilnya ke rapat evaluasi bulan ini sebagai bahan diskusi, bukan sebagai penilaian.
 
 Kalau KPI sudah rapi tetapi targetnya tetap meleset, masalahnya mungkin bukan di KPI. Baca [Diagnosis Kinerja Organisasi](/insights/diagnosis-kinerja-organisasi) untuk memeriksa lapisan lain.
+
+Sesudah KPI tersusun, tantangan berikutnya adalah menilai orang terhadap KPI itu. Kami membahasnya di [Penilaian Kinerja: Kenapa Peringkat Tahunan Jarang Memperbaiki Kinerja](/insights/penilaian-kinerja-adalah-kenapa-peringkat-tahunan-jarang-memperbaiki-kinerja). Program kami untuk sisi ini ada di [Strategy & Execution](/pelatihan/strategy-execution).
 
 ## Sumber
 
