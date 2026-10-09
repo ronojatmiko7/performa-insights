@@ -1,72 +1,68 @@
 ---
-title: "Kenapa KPI Gagal? (Dan Ini Bukan Salah Karyawan Anda)"
-slug: "kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda"
+title: "Kenapa KPI Tidak Achieve? (Dan Ini Bukan Salah Karyawan Anda)"
+slug: "kenapa-kpi-tidak-achieve-dan-ini-bukan-salah-karyawan-anda"
 date: "2026-06-09"
 updated: "2026-10-07"
 author: "Rono Jatmiko"
-excerpt: "Saat KPI meleset, banyak perusahaan mengganti orangnya, bukan sistemnya. Deming dan Rummler-Brache memperkirakan sebagian besar masalah ada di sistem."
+excerpt: "Saat KPI meleset, banyak perusahaan menyalahkan karyawannya, bukan sistemnya. Padahal Deming dan Rummler-Brache menyatakan sebagian besar masalah ada di sistem."
 tags: ["KPI", "Sistem Kinerja", "Manajemen Kinerja", "Balanced Scorecard"]
 ---
 
-KPI lebih sering gagal karena sistem di sekitarnya daripada karena orang yang memegangnya.
+"Kenapa KPI tidak achieve terus?" Pertanyaan itu datang dari seorang direktur operasional perusahaan distribusi di Surabaya — setelah tiga tahun berturut-turut mengganti orang. Sales manager pertama dipecat karena target tidak tercapai. Sales manager kedua — sama. Sales manager ketiga baru tiga bulan, namun arahnya sudah terlihat.
 
-Kenapa KPI gagal? Pertanyaan itu datang dari seorang direktur operasional perusahaan distribusi di Surabaya — setelah tiga tahun berturut-turut mengganti orang. Sales manager pertama dipecat karena target tidak tercapai. Sales manager kedua — sama. Sales manager ketiga baru tiga bulan, namun arahnya sudah terlihat.
-
-"Pak, saya sudah pilih yang terbaik. CV-nya bagus, pengalaman bagus. Tapi hasilnya tetap sama."
+"Pak, orangnya saya sudah pilih yang terbaik. CV-nya bagus, pengalaman bagus. Tapi hasilnya tetap sama."
 
 Saya hanya bertanya satu hal: *"Bapak pernah ganti sistemnya?"*
 
 Ia terdiam cukup lama.
 
-## Kenapa KPI Gagal: Masalahnya Bukan di Orangnya
+## Kenapa KPI Tidak Achieve: Masalahnya Bukan di Orangnya
 
-Ketika KPI tidak tercapai, reaksi yang paling umum adalah mengganti orangnya. Praktik ini berjalan otomatis di banyak perusahaan, dan kegagalannya sudah terdokumentasi.
+Ketika KPI tidak tercapai, reaksi yang paling umum adalah mengganti orangnya. Praktik ini berjalan otomatis di banyak perusahaan.
 
-Dua nama besar di bidang kinerja sampai pada arah yang sama. W. Edwards Deming memperkirakan 94% masalah ada di sistem, yang menjadi tanggung jawab manajemen, dan hanya 6% di luar itu (*Out of the Crisis*). Geary Rummler dan Alan Brache menulis bahwa sekitar 80% peluang perbaikan kinerja ada di lingkungan kerja (*Improving Performance*). Keduanya perkiraan dari pengalaman mereka, bukan hasil eksperimen. Namun arahnya konsisten: ketika karyawan gagal memenuhi KPI, kemungkinan besar bukan karena mereka malas atau tidak kompeten, melainkan karena sistem di sekitar mereka tidak mendukung mereka untuk berhasil.
+Dua tokoh dalam bidang manajemen kinerja, memiliki pendapat yang sama. W. Edwards Deming memperkirakan 94% masalah ada di sistem, yang menjadi tanggung jawab manajemen, dan hanya 6% di luar itu (dari buku *Out of the Crisis*). Sedangkan Geary Rummler dan Alan Brache menulis bahwa sekitar 80% peluang perbaikan kinerja ada di lingkungan kerja (dari buku *Improving Performance*). Keduanya menyimpulkan hal ini berdasarkan data, bukan hasil eksperimen. Namun intinya sama: ketika karyawan gagal mencapai KPI, kemungkinan besar bukan karena mereka malas atau tidak kompeten, melainkan karena sistem perusahaan tidak mendukung mereka untuk berhasil.
 
-Contoh publik yang paling mahal adalah Wells Fargo. Pada 2016, bank itu didenda total US$185 juta oleh regulator Amerika Serikat dan pemerintah kota Los Angeles. Karyawannya membuka lebih dari 2 juta rekening dan kartu kredit tanpa izin nasabah, supaya target penjualan tercapai dan bonus cair. Bank memecat sekitar 5.300 karyawan. Biro perlindungan konsumen AS (CFPB) mencatat bahwa program insentif finansial yang tidak dipantau dengan cermat membawa risiko serius. Targetnya individual dan angkanya jelas. Perilaku yang muncul adalah perilaku yang dibayar oleh sistemnya.
+Contoh yang paling mahal adalah Wells Fargo. Pada 2016, bank itu didenda total US$185 juta (sekitar 2.5 trilyun rupiah) oleh regulator Amerika Serikat dan pemerintah kota Los Angeles. Ada apa? Ternyata karyawan Bank tersebut membuka lebih dari 2 juta rekening dan kartu kredit tanpa izin dari nasabah, supaya target KPI penjualan tercapai dan bonus cair. Bank memecat sekitar 5.300 karyawan. Biro perlindungan konsumen AS (CFPB) mencatat bahwa program insentif KPI yang tidak dipantau dengan cermat dapat membawa risiko serius. Targetnya individual dan angkanya jelas. Perilaku yang muncul adalah perilaku yang tidak sengaja diciptakan oleh sistemnya.
 
-Lalu mengapa kita terus menyalahkan orangnya? Jawabannya sederhana: karena itu lebih mudah. Mengganti orang terasa seperti tindakan nyata. Sebaliknya, memperbaiki sistem terasa seperti pekerjaan panjang yang tidak ada habisnya.
+Lalu mengapa kita terus menyalahkan orangnya? Jawabannya sederhana: karena itu lebih mudah. Mengganti orang seolah seperti solusi konkrit. Sebaliknya, memperbaiki sistem terasa seperti pekerjaan panjang yang tidak ada habisnya.
 
 ## Tiga Akar Masalah KPI yang Paling Sering Diabaikan
 
-Setelah belasan tahun mendampingi organisasi — dari BUMN hingga perusahaan keluarga — saya menemukan tiga pola yang selalu berulang setiap kali KPI gagal jalan. Berikut penjelasannya satu per satu.
+Setelah belasan tahun mendampingi organisasi — dari BUMN hingga perusahaan keluarga — saya menemukan tiga pola yang selalu berulang setiap kali KPI tidak achieve. Berikut penjelasannya satu per satu.
 
 ### 1. KPI Dibuat Tanpa Menyentuh Level Proses
 
-Pada umumnya, KPI dibuat di level hasil: revenue, jumlah pelanggan, tingkat error. Angka-angka ini valid sebagai target, namun tidak memberitahu siapapun bagaimana mencapainya. Akibatnya, ketika target tidak tercapai, manajer tidak tahu harus memperbaiki apa — karena tidak ada indikator di level proses yang bisa diperiksa.
+Pada umumnya, KPI dibuat hanya di level output / hasil akhir: revenue, jumlah pelanggan, tingkat error. Angka-angka ini penting, tapi angka ini tidak menjelaskan bagaimana mencapainya. Akibatnya, ketika target tidak tercapai, manajer tidak tahu salahnya dimana — karena tidak ada indikator di level proses yang bisa diperiksa.
 
-Sebagai ilustrasi, bayangkan Anda ingin menurunkan berat badan 10 kg dalam 3 bulan. Itu adalah KPI hasil. Namun tanpa mengukur kalori harian, jumlah langkah kaki, atau kualitas tidur — Anda tidak punya data untuk intervensi. Yang bisa Anda lakukan hanyalah menunggu timbangan dan berharap.
+Sebagai ilustrasi, bayangkan Anda ingin menurunkan berat badan 10 kg dalam 3 bulan. Itu adalah KPI hasil. Namun tanpa mengukur konsumsi kalori harian, jumlah langkah kaki, atau kualitas tidur — Anda tidak tau apa yang harus diperbaiki. Yang bisa Anda lakukan hanyalah mengharap keajaiban berat badan Anda turun sendiri.
 
-Organisasi yang sehat mengukur tiga level sekaligus: hasil, proses, dan input. Dalam pengalaman saya, banyak perusahaan hanya mengukur yang pertama.
+Organisasi yang sehat mengukur tiga level sekaligus: output (hasil), proses, dan input. Dalam pengalaman saya, banyak perusahaan hanya mengukur output saja.
 
 ### 2. KPI Tidak Terhubung ke Strategi
 
-Masalah ini lebih berbahaya dari yang terlihat. Saya sering menemukan perusahaan yang KPI-nya disusun berdasarkan job description — bukan dari strategi bisnis. Akibatnya, setiap orang sibuk mengerjakan tugasnya masing-masing, tetapi perusahaan tidak bergerak ke mana-mana.
+Masalah ini lebih berbahaya lagi. Saya sering menemukan perusahaan yang KPI-nya disusun berdasarkan job description — bukan dari strategi bisnis. Akibatnya, setiap orang sibuk mengerjakan tugasnya masing-masing, seolah produktif tapi perusahaan tidak jalan ke mana-mana.
 
-Balanced Scorecard lahir dari masalah serupa. Robert Kaplan dan David Norton memperkenalkannya lewat artikel di *Harvard Business Review* pada 1992, karena perusahaan terlalu bergantung pada ukuran keuangan. Mereka menambahkan ukuran dari sisi pelanggan, proses internal, serta pembelajaran dan pertumbuhan. Bukti empiris bahwa BSC memperbaiki kinerja memang masih terbatas, jadi perlakukan ia sebagai alat berpikir, bukan jaminan. Tanpa peta strategi yang jelas di atasnya, BSC pun hanya menjadi tabel angka yang rutin diisi dan rutin dilupakan.
+Pendekatan Balanced Scorecard (BSC) lahir dari masalah ini. Robert Kaplan dan David Norton memperkenalkannya lewat artikel di *Harvard Business Review* pada 1992, karena perusahaan terlalu bergantung pada ukuran keuangan. Mereka menambahkan ukuran dari sisi pelanggan, proses internal, serta pembelajaran dan pertumbuhan. Bukti empiris bahwa BSC memperbaiki kinerja memang masih terbatas, jadi perlakukan ia sebagai alat berpikir, bukan jaminan. Tanpa peta strategi yang jelas di atasnya, BSC pun hanya menjadi tabel angka yang rutin diisi namun tidak jelas dampaknya terhadap perusahaan.
 
-### 3. KPI Dikelola Sebagai Ritual, Bukan Sebagai Alat
+### 3. KPI Dikelola Sebagai Rutinitas Belaka, Bukan Sebagai Alat Evaluasi
 
-Setiap kuartal, formulir diisi. Review dilakukan. Angka dicatat. Kemudian tidak ada yang berubah sampai kuartal berikutnya. Ini bukan manajemen kinerja — ini adalah administrasi kinerja.
+Setiap kuartal, formulir diisi. Review dilakukan. Angka dicatat. Kemudian tidak ada perubahan apa-apa sampai kuartal berikutnya. Ini bukan manajemen kinerja — ini hanyalah administrasi kinerja belaka.
 
-Padahal, KPI yang efektif bukan sekadar alat ukur. Ia adalah sistem umpan balik yang memungkinkan organisasi belajar dan menyesuaikan diri dengan cepat. Ketika KPI hanya hidup di dokumen evaluasi tahunan, fungsi itu hilang sepenuhnya.
+Padahal, KPI yang efektif bukan sekadar alat ukur. Ia adalah sistem evaluasi yang memberikan umpan balik agar karyawan dapat belajar dan menyesuaikan diri dengan cepat. Agar mereka tau apa yang harus diperbaiki. Ketika KPI hanya hidup di dokumen evaluasi tahunan, maka ia hanya menjadi rutinitas tanpa makna.
 
 ## Lalu Apa yang Harus Dilakukan?
 
-Memang tidak ada jawaban instan. Namun ada titik mulai yang benar.
-
 Sebelum membuat atau merevisi KPI, tanyakan tiga pertanyaan ini kepada diri sendiri dan tim Anda:
 
-Pertama, apakah setiap KPI bisa dilacak kembali ke satu tujuan strategis yang jelas? Jika tidak, kemungkinan besar KPI itu hanya mengukur kesibukan — bukan kemajuan.
+Pertama, apakah KPI dibuat berdasarkan tujuan strategis perusahaan? Bahwa setiap KPI yang dicapai karyawan akan berdampak baik secara langsung maupun tidak langsung terhadap kesuksesan perusahaan.
 
-Selanjutnya, apakah ada indikator proses yang mendukung setiap KPI hasil? Tanpa itu, Anda hanya bisa menunggu — bukan mengelola.
+Selanjutnya, apakah KPI sudah berisi KPI Proses? Yaitu aktivitas apa saja yang harus dilakukan untuk mencapai KPI Output.
 
-Terakhir, apakah karyawan memahami mengapa KPI itu penting, bukan hanya apa targetnya? Jika tidak, KPI akan selalu terasa seperti tekanan dari atas — bukan arah menuju tujuan bersama.
+Terakhir, apakah ada proses evaluasi yang memastikan target kinerja dapat tercapai, dan ketika ada kendala, karyawan tau apa yang harus diperbaiki?
 
 ## Mulai dari sini
 
-Direktur dari Surabaya itu akhirnya tidak jadi memecat sales manager ketiganya. Bersama, kami melakukan review sistem — mulai dari struktur target, alur proses penjualan, hingga dukungan data yang tersedia untuk tim lapangan. Enam bulan kemudian, angkanya bergerak. Orangnya sama. Sistemnya yang berubah.
+Direktur dari Surabaya itu akhirnya tidak jadi memecat sales manager ketiganya. Bersama, kami melakukan review sistem — mulai dari struktur target, alur proses penjualan, hingga dukungan data yang tersedia untuk tim lapangan. Enam bulan kemudian, angkanya naik. Orangnya tidak diganti. Sistemnya yang diperbaiki.
 
 Ambil satu KPI yang meleset dalam enam bulan terakhir. Sebelum mengganti orangnya, jawab tiga pertanyaan di atas dengan data. Catat yang pertama kali dijawab "tidak", lalu mulai perbaikan dari sana.
 
