@@ -2,7 +2,7 @@
 title: "Training Need Analysis (TNA): Mulai dari KPI yang Meleset, Bukan dari Daftar Topik"
 slug: "training-need-analysis-tna-cara-melakukan-dan-kenapa-survei-saja-tidak-cukup"
 date: "2026-10-04"
-updated: "2026-10-07"
+updated: "2026-10-09"
 author: "Rono Jatmiko"
 excerpt: "Training need analysis (TNA) menentukan pelatihan apa yang dibutuhkan, dan apakah pelatihan memang jawabannya. Mulailah dari KPI yang meleset, lalu pisahkan faktor kompetensi dari non-kompetensi."
 tags: ["Training Need Analysis", "TNA", "Pelatihan", "Diagnosis Kinerja"]
@@ -86,7 +86,7 @@ Seorang direktur penjualan meminta pelatihan negosiasi karena tingkat penutupan 
 
 Dengan tiga langkah di atas, pertanyaannya berubah. Target jelas. KPI sehat. Tetapi setiap proposal harus melewati dua persetujuan yang masing-masing memakan tiga hari, dan pelanggan memilih pesaing yang menjawab lebih cepat. Jawaban "tidak" yang pertama ada di proses. Hasilnya jalur ketiga: bukan pelatihan negosiasi, melainkan perbaikan alur persetujuan, lalu ukur ulang tingkat penutupan.
 
-Untuk membaca KPI yang meleset lebih jauh, lihat [KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya](/insights/kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya) dan [Kenapa KPI Gagal?](/insights/kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda). Jika sumbernya ada di proses, mulailah dari [SOP Adalah: Pengertian, Cara Membuat, dan Kenapa Tidak Dijalankan](/insights/sop-adalah-pengertian-cara-membuat-dan-kenapa-tidak-dijalankan).
+Untuk membaca KPI yang meleset lebih jauh, lihat [KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya](/insights/kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya) dan [Kenapa KPI Tidak Tercapai?](/insights/kenapa-kpi-tidak-tercapai-dan-ini-bukan-salah-karyawan-anda). Jika sumbernya ada di proses, mulailah dari [SOP Adalah: Pengertian, Cara Membuat, dan Kenapa Tidak Dijalankan](/insights/sop-adalah-pengertian-cara-membuat-dan-kenapa-tidak-dijalankan).
 
 Cara kami menjalankan ketiga jalur itu ada di [halaman metode](/pelatihan/metode).
 
