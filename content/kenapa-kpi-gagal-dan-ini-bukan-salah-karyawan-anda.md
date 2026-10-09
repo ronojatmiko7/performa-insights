@@ -1,6 +1,6 @@
 ---
 title: "Kenapa KPI Tidak Tercapai? (Dan Ini Bukan Salah Karyawan Anda)"
-slug: "kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda"
+slug: "kenapa-kpi-tidak-tercapai-dan-ini-bukan-salah-karyawan-anda"
 date: "2026-06-09"
 updated: "2026-10-09"
 author: "Rono Jatmiko"
