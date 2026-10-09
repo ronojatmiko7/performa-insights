@@ -1,8 +1,8 @@
 ---
 title: "Kenapa KPI Tidak Achieve? (Dan Ini Bukan Salah Karyawan Anda)"
-slug: "kenapa-kpi-tidak-achieve-dan-ini-bukan-salah-karyawan-anda"
+slug: "kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda"
 date: "2026-06-09"
-updated: "2026-10-07"
+updated: "2026-10-09"
 author: "Rono Jatmiko"
 excerpt: "Saat KPI meleset, banyak perusahaan menyalahkan karyawannya, bukan sistemnya. Padahal Deming dan Rummler-Brache menyatakan sebagian besar masalah ada di sistem."
 tags: ["KPI", "Sistem Kinerja", "Manajemen Kinerja", "Balanced Scorecard"]
