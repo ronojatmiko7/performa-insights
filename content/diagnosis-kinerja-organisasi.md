@@ -2,7 +2,7 @@
 title: "Diagnosis Kinerja Organisasi: Empat Lapisan Tempat Kinerja Macet"
 slug: "diagnosis-kinerja-organisasi"
 date: "2026-10-03"
-updated: "2026-10-07"
+updated: "2026-10-09"
 author: "Rono Jatmiko"
 excerpt: "Kinerja organisasi jarang macet di satu tempat. Ia macet di salah satu dari empat lapisan: strategi, organisasi, proses, atau individu. Ini cara membacanya, berurutan."
 tags: ["Diagnosis Kinerja", "Manajemen Kinerja", "Kinerja Organisasi", "Rummler-Brache"]
@@ -33,7 +33,7 @@ Dalam konteks BUMN, lapisan ini biasanya terlihat dari satu hal: RJPP dan RKAP t
 
 Di sinilah KPI, struktur, dan insentif bertemu. Sales dikejar volume, sementara tim keuangan dikejar kehati-hatian kredit. Keduanya benar menurut ukuran masing-masing. Hasilnya, proposal bagus tertahan di meja yang berbeda dan pelanggan menunggu.
 
-Jangan buru-buru mengganti orangnya. Periksa dahulu apakah sistemnya memang membuat orang saling menghalangi. Kami membahas ini lebih dalam di [Kenapa KPI Gagal? (Dan Ini Bukan Salah Karyawan Anda)](/insights/kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda). Untuk menyusun KPI yang layak dipakai, baca [KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya](/insights/kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya). Untuk menilai orang terhadap KPI itu, baca [Penilaian Kinerja: Kenapa Peringkat Tahunan Jarang Memperbaiki Kinerja](/insights/penilaian-kinerja-adalah-kenapa-peringkat-tahunan-jarang-memperbaiki-kinerja).
+Jangan buru-buru mengganti orangnya. Periksa dahulu apakah sistemnya memang membuat orang saling menghalangi. Kami membahas ini lebih dalam di [Kenapa KPI Tidak Tercapai? (Dan Ini Bukan Salah Karyawan Anda)](/insights/kenapa-kpi-tidak-tercapai-dan-ini-bukan-salah-karyawan-anda). Untuk menyusun KPI yang layak dipakai, baca [KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya](/insights/kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya). Untuk menilai orang terhadap KPI itu, baca [Penilaian Kinerja: Kenapa Peringkat Tahunan Jarang Memperbaiki Kinerja](/insights/penilaian-kinerja-adalah-kenapa-peringkat-tahunan-jarang-memperbaiki-kinerja).
 
 ## Lapisan 3: Proses
 

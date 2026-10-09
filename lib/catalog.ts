@@ -73,7 +73,7 @@ export const TRACKS: Track[] = [
       "Empat program dari strategi sampai keputusan di lapangan: arah strategis, eksekusi, KPI dan manajemen kinerja, serta pengambilan keputusan dan risiko.",
     related: [
       "kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya",
-      "kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda",
+      "kenapa-kpi-tidak-tercapai-dan-ini-bukan-salah-karyawan-anda",
     ],
     programs: [
       {

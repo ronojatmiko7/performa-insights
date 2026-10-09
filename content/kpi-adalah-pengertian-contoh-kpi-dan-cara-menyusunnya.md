@@ -2,7 +2,7 @@
 title: "KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya"
 slug: "kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya"
 date: "2026-10-04"
-updated: "2026-10-07"
+updated: "2026-10-09"
 author: "Rono Jatmiko"
 excerpt: "KPI adalah ukuran yang menunjukkan seberapa jauh pekerjaan bergerak menuju tujuan. Pengertian, contoh KPI per fungsi, cara menyusunnya, dan kenapa KPI yang rapi sering menyesatkan."
 tags: ["KPI", "Key Performance Indicator", "Contoh KPI", "Manajemen Kinerja"]
@@ -43,7 +43,7 @@ Ini punya dasar. Locke dan Latham, dalam tinjauan 35 tahun riset penetapan tujua
 
 Tetapi riset yang sama memberi dua batas. Pada tugas yang kompleks, efeknya mengecil (sekitar 0,41 sampai 0,48 dibanding 0,67 sampai 0,77 pada tugas sederhana), dan untuk tugas kompleks, tujuan belajar kadang lebih efektif daripada target kinerja. Dan ketika tujuan pribadi bertabrakan dengan tujuan organisasi, kinerja turun.
 
-Ordóñez, Schweitzer, Galinsky, dan Bazerman (2009) menyusun sisi gelapnya. Menurut mereka, manfaat penetapan tujuan terlalu dibesar-besarkan dan efek sampingnya diabaikan. Mereka mencatat enam efek samping yang sistematis: fokus yang terlalu sempit sampai hal di luar target terabaikan, pilihan risiko yang bergeser, perilaku tidak etis yang meningkat, hambatan belajar, budaya organisasi yang terkikis, dan motivasi intrinsik yang menurun. Kesimpulan mereka: perlakukan tujuan seperti obat dosis tinggi yang harus ditakar hati-hati. Contoh publik yang paling mahal ada di [Kenapa KPI Gagal?](/insights/kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda): Wells Fargo, 2016.
+Ordóñez, Schweitzer, Galinsky, dan Bazerman (2009) menyusun sisi gelapnya. Menurut mereka, manfaat penetapan tujuan terlalu dibesar-besarkan dan efek sampingnya diabaikan. Mereka mencatat enam efek samping yang sistematis: fokus yang terlalu sempit sampai hal di luar target terabaikan, pilihan risiko yang bergeser, perilaku tidak etis yang meningkat, hambatan belajar, budaya organisasi yang terkikis, dan motivasi intrinsik yang menurun. Kesimpulan mereka: perlakukan tujuan seperti obat dosis tinggi yang harus ditakar hati-hati. Contoh publik yang paling mahal ada di [Kenapa KPI Tidak Tercapai?](/insights/kenapa-kpi-tidak-tercapai-dan-ini-bukan-salah-karyawan-anda): Wells Fargo, 2016.
 
 Dua temuan ini tidak bertentangan. Target bekerja, dan target yang dibagikan tanpa takaran, tanpa umpan balik, dan dengan hukuman otomatis menimbulkan kerusakan sendiri. Kegagalannya ada di cara KPI dirancang dan dikelola, bukan di gagasan mengukur.
 
