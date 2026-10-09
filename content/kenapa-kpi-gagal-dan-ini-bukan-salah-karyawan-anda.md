@@ -1,5 +1,5 @@
 ---
-title: "Kenapa KPI Tidak Achieve? (Dan Ini Bukan Salah Karyawan Anda)"
+title: "Kenapa KPI Tidak Tercapai? (Dan Ini Bukan Salah Karyawan Anda)"
 slug: "kenapa-kpi-gagal-dan-ini-bukan-salah-karyawan-anda"
 date: "2026-06-09"
 updated: "2026-10-09"
@@ -8,7 +8,7 @@ excerpt: "Saat KPI meleset, banyak perusahaan menyalahkan karyawannya, bukan sis
 tags: ["KPI", "Sistem Kinerja", "Manajemen Kinerja", "Balanced Scorecard"]
 ---
 
-"Kenapa KPI tidak achieve terus?" Pertanyaan itu datang dari seorang direktur operasional perusahaan distribusi di Surabaya — setelah tiga tahun berturut-turut mengganti orang. Sales manager pertama dipecat karena target tidak tercapai. Sales manager kedua — sama. Sales manager ketiga baru tiga bulan, namun arahnya sudah terlihat.
+"Kenapa KPI tidak tercapai terus?" Pertanyaan itu datang dari seorang direktur operasional perusahaan distribusi di Surabaya — setelah tiga tahun berturut-turut mengganti orang. Sales manager pertama dipecat karena target tidak tercapai. Sales manager kedua — sama. Sales manager ketiga baru tiga bulan, namun arahnya sudah terlihat.
 
 "Pak, orangnya saya sudah pilih yang terbaik. CV-nya bagus, pengalaman bagus. Tapi hasilnya tetap sama."
 
@@ -16,7 +16,7 @@ Saya hanya bertanya satu hal: *"Bapak pernah ganti sistemnya?"*
 
 Ia terdiam cukup lama.
 
-## Kenapa KPI Tidak Achieve: Masalahnya Bukan di Orangnya
+## Kenapa KPI Tidak Tercapai: Masalahnya Bukan di Orangnya
 
 Ketika KPI tidak tercapai, reaksi yang paling umum adalah mengganti orangnya. Praktik ini berjalan otomatis di banyak perusahaan.
 
@@ -28,7 +28,7 @@ Lalu mengapa kita terus menyalahkan orangnya? Jawabannya sederhana: karena itu l
 
 ## Tiga Akar Masalah KPI yang Paling Sering Diabaikan
 
-Setelah belasan tahun mendampingi organisasi — dari BUMN hingga perusahaan keluarga — saya menemukan tiga pola yang selalu berulang setiap kali KPI tidak achieve. Berikut penjelasannya satu per satu.
+Setelah belasan tahun mendampingi organisasi — dari BUMN hingga perusahaan keluarga — saya menemukan tiga pola yang selalu berulang setiap kali KPI tidak tercapai. Berikut penjelasannya satu per satu.
 
 ### 1. KPI Dibuat Tanpa Menyentuh Level Proses
 
