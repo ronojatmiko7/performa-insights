@@ -2,7 +2,13 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getPostBySlug, getPostSlugs, getRelatedPosts } from "../../../lib/posts";
-import { POSTS_PATH, SITE_NAME, SITE_URL, postUrl } from "../../../lib/site";
+import { POSTS_PATH, SITE_NAME, SITE_URL, absoluteUrl, postUrl } from "../../../lib/site";
+
+// Share image (link previews, Article JSON-LD). Falls back to the on-page cover.
+function shareImageUrl(meta: { shareImage?: string; coverImage?: string }): string | undefined {
+  const image = meta.shareImage ?? meta.coverImage;
+  return image ? absoluteUrl(image) : undefined;
+}
 
 export async function generateStaticParams() {
   return getPostSlugs().map((slug) => ({ slug }));
@@ -28,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       modifiedTime: meta.updated ?? meta.date,
       authors: [meta.author],
       tags: meta.tags,
-      images: meta.coverImage ? [{ url: meta.coverImage }] : undefined,
+      images: shareImageUrl(meta) ? [{ url: shareImageUrl(meta)!, alt: meta.title }] : undefined,
       url: postUrl(meta.slug),
     },
   };
@@ -57,7 +63,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       name: SITE_NAME,
       logo: { "@type": "ImageObject", url: "https://i.ibb.co.com/qMHcWzjh/Logo-Only-performa.png" },
     },
-    image: meta.coverImage ? [meta.coverImage] : undefined,
+    image: shareImageUrl(meta) ? [shareImageUrl(meta)!] : undefined,
     mainEntityOfPage: postUrl(meta.slug),
   };
 

@@ -5,6 +5,7 @@ date: "2026-06-09"
 updated: "2026-10-09"
 author: "Rono Jatmiko"
 excerpt: "Saat KPI meleset, banyak perusahaan menyalahkan karyawannya, bukan sistemnya. Padahal Deming dan Rummler-Brache menyatakan sebagian besar masalah ada di sistem."
+shareImage: "/covers/kenapa-kpi-tidak-tercapai-dan-ini-bukan-salah-karyawan-anda.jpg"
 tags: ["KPI", "Sistem Kinerja", "Manajemen Kinerja", "Balanced Scorecard"]
 ---
 
