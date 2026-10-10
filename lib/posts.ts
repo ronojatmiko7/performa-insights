@@ -15,7 +15,12 @@ export interface PostMeta {
   updated?: string;
   author: string;
   excerpt: string;
+  /** Optional. Image drawn on the page (and index card). Keep it text-free, the headline is already printed next to it. */
   coverImage?: string;
+  /** Optional. Image for link previews (og:image) and the Article JSON-LD, also reusable as the Instagram post.
+   *  Not drawn on the page, so it may carry the headline. Path under /public (e.g. /covers/<slug>.jpg) or a full URL.
+   *  Use JPEG or PNG: some crawlers, LinkedIn included, are unreliable with WebP. */
+  shareImage?: string;
   tags?: string[];
 }
 
