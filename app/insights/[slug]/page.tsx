@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getPostBySlug, getPostSlugs, getRelatedPosts } from "../../../lib/posts";
+import { getPostBySlug, getPostSlugs, getRelatedPosts, pageImage } from "../../../lib/posts";
 import { POSTS_PATH, SITE_NAME, SITE_URL, absoluteUrl, postUrl } from "../../../lib/site";
 
 // Share image (link previews, Article JSON-LD). Falls back to the on-page cover.
@@ -94,8 +94,15 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           {meta.author} · {formatDate(meta.date)}
           {meta.updated && meta.updated !== meta.date ? ` · Diperbarui ${formatDate(meta.updated)}` : ""}
         </p>
-        {meta.coverImage && (
-          <img src={meta.coverImage} alt={meta.title} className="w-full rounded-lg mb-8" />
+        {pageImage(meta) && (
+          // Decorative (alt=""): the headline is the H1 right above. Capped at max-w-md so a square
+          // image does not push the first paragraph below the fold. aspect-square reserves the space
+          // (no layout shift) and assumes square images; revisit when a wide cover is added.
+          <img
+            src={pageImage(meta)!}
+            alt=""
+            className="mx-auto mt-0 mb-8 aspect-square w-full max-w-md rounded-lg object-cover"
+          />
         )}
         <div dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>

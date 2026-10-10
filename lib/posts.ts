@@ -24,6 +24,12 @@ export interface PostMeta {
   tags?: string[];
 }
 
+/** Image drawn on the article page, the index card and in the posts.json feed (home page).
+ *  The text-free coverImage wins when an article has one, otherwise the share image is used. */
+export function pageImage(meta: Pick<PostMeta, "coverImage" | "shareImage">): string | undefined {
+  return meta.coverImage ?? meta.shareImage;
+}
+
 // YAML turns an unquoted date (date: 2026-06-09) into a Date object.
 // Normalise to "YYYY-MM-DD" so a draft never breaks sorting or the sitemap.
 function normalizeDate(value: unknown): string {
