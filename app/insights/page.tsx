@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getAllPosts } from "../../lib/posts";
+import { getAllPosts, pageImage } from "../../lib/posts";
 
 export const metadata = {
   // The layout's title template appends "| Performa International Indonesia".
@@ -18,8 +18,13 @@ export default function InsightsIndexPage() {
       <div className="grid gap-8 md:grid-cols-2">
         {posts.map((post) => (
           <Link key={post.slug} href={`/insights/${post.slug}`} className="block group">
-            {post.coverImage && (
-              <img src={post.coverImage} alt="" className="w-full h-48 object-cover rounded-lg mb-3" />
+            {pageImage(post) && (
+              <img
+                src={pageImage(post)!}
+                alt=""
+                loading="lazy"
+                className="mb-3 aspect-square w-full rounded-lg object-cover"
+              />
             )}
             <h2 className="text-xl font-semibold group-hover:underline">{post.title}</h2>
             <p className="text-gray-600 mt-1 line-clamp-3">{post.excerpt}</p>
