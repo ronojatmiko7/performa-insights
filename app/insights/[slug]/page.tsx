@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getPostBySlug, getPostSlugs, getRelatedPosts, pageImage } from "../../../lib/posts";
 import { POSTS_PATH, SITE_NAME, SITE_URL, absoluteUrl, postUrl } from "../../../lib/site";
+import PrediagnosisCta from "../../components/PrediagnosisCta";
 
 // Share image (link previews, Article JSON-LD). Falls back to the on-page cover.
 function shareImageUrl(meta: { shareImage?: string; coverImage?: string }): string | undefined {
@@ -106,6 +107,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         )}
         <div dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
       </article>
+
+      <PrediagnosisCta slug={meta.slug} />
 
       {related.length > 0 && (
         <aside className="mx-auto max-w-3xl px-4 pb-16" aria-labelledby="related-heading">
