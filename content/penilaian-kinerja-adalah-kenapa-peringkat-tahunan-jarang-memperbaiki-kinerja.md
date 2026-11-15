@@ -1,4 +1,6 @@
 ---
+seoTitle: "Penilaian Kinerja Adalah: Arti, Isi, dan Cara yang Efektif"
+metaDescription: "Penilaian kinerja adalah cara menilai kerja seseorang terhadap sasaran yang disepakati. Isinya, kelemahan peringkat tahunan, dan cara yang lebih efektif."
 title: "Penilaian Kinerja: Kenapa Peringkat Tahunan Jarang Memperbaiki Kinerja"
 slug: "penilaian-kinerja-adalah-kenapa-peringkat-tahunan-jarang-memperbaiki-kinerja"
 date: "2026-10-05"

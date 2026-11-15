@@ -1,4 +1,6 @@
 ---
+seoTitle: "Bottleneck Adalah: Arti, Gejala, dan Cara Mengatasinya"
+metaDescription: "Bottleneck adalah tahap dengan kapasitas paling kecil dalam proses. Gejala yang mudah dikenali, cara menemukannya, dan lima langkah untuk mengatasinya."
 title: "Bottleneck Adalah: Cara Menemukan dan Kenapa Menambah Orang Tidak Menyelesaikannya"
 slug: "bottleneck-adalah-cara-menemukan-dan-kenapa-menambah-orang-tidak-menyelesaikannya"
 date: "2026-10-12"

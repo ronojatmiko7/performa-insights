@@ -20,16 +20,18 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = await getPostBySlug(slug);
   if (!post) return {};
   const { meta } = post;
+  const searchTitle = meta.seoTitle ?? meta.title;
+  const searchDescription = meta.metaDescription ?? meta.excerpt;
   return {
     // absolute: keep the full headline in the search result, no site-name suffix eating the character budget.
-    title: { absolute: meta.title },
-    description: meta.excerpt,
+    title: { absolute: searchTitle },
+    description: searchDescription,
     keywords: meta.tags,
     authors: [{ name: meta.author }],
     alternates: { canonical: postUrl(meta.slug) },
     openGraph: {
-      title: meta.title,
-      description: meta.excerpt,
+      title: searchTitle,
+      description: searchDescription,
       type: "article",
       publishedTime: meta.date,
       modifiedTime: meta.updated ?? meta.date,

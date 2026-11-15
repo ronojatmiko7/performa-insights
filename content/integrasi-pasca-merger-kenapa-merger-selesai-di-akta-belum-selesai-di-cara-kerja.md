@@ -1,4 +1,6 @@
 ---
+seoTitle: "Integrasi Pasca-Merger: Arti, Cakupan, dan Berapa Lama"
+metaDescription: "Integrasi pasca-merger adalah pekerjaan menyatukan cara kerja dua perusahaan lama. Apa yang diintegrasikan, kenapa KPI bertabrakan, dan berapa lama prosesnya."
 title: "Integrasi Pasca-Merger: Kenapa Merger Selesai di Akta, Belum Selesai di Cara Kerja"
 slug: "integrasi-pasca-merger-kenapa-merger-selesai-di-akta-belum-selesai-di-cara-kerja"
 date: "2026-11-02"

@@ -15,6 +15,11 @@ export interface PostMeta {
   updated?: string;
   author: string;
   excerpt: string;
+  /** Optional. Title shown in Google results and link previews (keep it under ~60 characters, keyword first).
+   *  The on-page H1 stays `title`. */
+  seoTitle?: string;
+  /** Optional. Meta description for Google results (under ~155 characters). Falls back to `excerpt`. */
+  metaDescription?: string;
   /** Optional. Image drawn on the page (and index card). Keep it text-free, the headline is already printed next to it. */
   coverImage?: string;
   /** Optional. Image for link previews (og:image) and the Article JSON-LD, also reusable as the Instagram post.

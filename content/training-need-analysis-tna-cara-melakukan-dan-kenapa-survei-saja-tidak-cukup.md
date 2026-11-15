@@ -1,4 +1,6 @@
 ---
+seoTitle: "Training Need Analysis (TNA): Arti dan 3 Langkah Melakukannya"
+metaDescription: "Training need analysis (TNA) menentukan pelatihan apa yang dibutuhkan. Dua cara membuka TNA, tiga langkah yang dimulai dari KPI, dan contoh penerapannya."
 title: "Training Need Analysis (TNA): Mulai dari KPI yang Meleset, Bukan dari Daftar Topik"
 slug: "training-need-analysis-tna-cara-melakukan-dan-kenapa-survei-saja-tidak-cukup"
 date: "2026-10-04"
