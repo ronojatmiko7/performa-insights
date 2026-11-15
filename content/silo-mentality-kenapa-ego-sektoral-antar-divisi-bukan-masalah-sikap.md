@@ -1,4 +1,6 @@
 ---
+seoTitle: "Silo Mentality: Arti Ego Sektoral, Penyebab, dan Solusi"
+metaDescription: "Silo mentality atau ego sektoral adalah kebiasaan divisi mengutamakan targetnya sendiri. Penyebab utamanya, kaitannya dengan KPI, dan cara mengatasinya."
 title: "Silo Mentality: Kenapa Ego Sektoral Antar Divisi Bukan Masalah Sikap"
 slug: "silo-mentality-kenapa-ego-sektoral-antar-divisi-bukan-masalah-sikap"
 date: "2026-10-26"

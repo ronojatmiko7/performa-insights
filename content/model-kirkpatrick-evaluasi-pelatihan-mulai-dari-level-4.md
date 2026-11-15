@@ -1,4 +1,6 @@
 ---
+seoTitle: "Model Kirkpatrick: 4 Level Evaluasi Pelatihan dan Contohnya"
+metaDescription: "Model Kirkpatrick punya 4 level evaluasi pelatihan: reaksi, pembelajaran, perilaku, hasil. Alat ukur tiap level, contoh, dan cara mulai dari Level 4."
 title: "Model Kirkpatrick: Empat Level Evaluasi Pelatihan, Mulai dari Level 4"
 slug: "model-kirkpatrick-evaluasi-pelatihan-mulai-dari-level-4"
 date: "2026-10-07"

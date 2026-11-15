@@ -1,4 +1,6 @@
 ---
+seoTitle: "SOP Adalah: Arti, Isi, Cara Membuat, dan Contoh SOP"
+metaDescription: "SOP adalah prosedur tertulis agar pekerjaan memberi hasil yang sama. Isi SOP, empat format, cara membuat dalam enam langkah, dan contoh SOP sederhana."
 title: "SOP Adalah: Pengertian, Cara Membuat, dan Kenapa Tidak Dijalankan"
 slug: "sop-adalah-pengertian-cara-membuat-dan-kenapa-tidak-dijalankan"
 date: "2026-10-03"

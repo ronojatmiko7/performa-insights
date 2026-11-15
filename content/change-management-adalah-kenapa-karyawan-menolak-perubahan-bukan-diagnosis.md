@@ -1,4 +1,6 @@
 ---
+seoTitle: "Change Management Adalah: Arti, Model, dan 4 Gerbang Diagnosis"
+metaDescription: "Change management adalah cara terstruktur membawa organisasi ke cara kerja baru. Model yang bisa dipakai, mitos 70% gagal, dan empat gerbang diagnosis."
 title: "Change Management Adalah: Kenapa \"Karyawan Menolak Perubahan\" Bukan Diagnosis"
 slug: "change-management-adalah-kenapa-karyawan-menolak-perubahan-bukan-diagnosis"
 date: "2026-11-09"

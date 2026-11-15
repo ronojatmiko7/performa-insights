@@ -1,4 +1,6 @@
 ---
+seoTitle: "KPI Adalah: Arti, Jenis, dan Contoh KPI per Fungsi"
+metaDescription: "KPI adalah ukuran kemajuan pekerjaan menuju tujuan. Dua jenis indikator, contoh KPI per fungsi, dan cara menyusun KPI yang benar-benar dipakai."
 title: "KPI Adalah: Pengertian, Contoh KPI, dan Cara Menyusunnya"
 slug: "kpi-adalah-pengertian-contoh-kpi-dan-cara-menyusunnya"
 date: "2026-10-04"

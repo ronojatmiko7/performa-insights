@@ -1,4 +1,6 @@
 ---
+seoTitle: "Perencanaan Strategis Adalah: Arti, Isi, dan Cara Eksekusi"
+metaDescription: "Perencanaan strategis adalah proses menentukan arah, pilihan, dan sumber daya organisasi untuk beberapa tahun. Isi rencana dan cara menjalankannya."
 title: "Perencanaan Strategis Adalah: Kenapa Dokumen Lima Tahun Jarang Dijalankan"
 slug: "perencanaan-strategis-adalah-kenapa-dokumen-lima-tahun-jarang-dijalankan"
 date: "2026-10-19"
