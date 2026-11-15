@@ -271,3 +271,15 @@ export const CATALOG_PATH = "/pelatihan";
 export const CATALOG_UPDATED = "2026-10-05";
 export const WHATSAPP_URL = "https://wa.me/6287770781950";
 export const DIAGNOSTIC_URL = "https://calendly.com/performaconsulting/diagnostic";
+export const PREDIAGNOSIS_URL = "https://www.performa.co.id/prediagnosis";
+
+/** Pra-Diagnosis link for one article, tagged so performa.co.id can see which article sent the visitor. */
+export function prediagnosisUrl(slug: string): string {
+  const params = new URLSearchParams({
+    utm_source: "insights",
+    utm_medium: "article",
+    utm_campaign: slug,
+    utm_content: "cta-akhir-artikel",
+  });
+  return `${PREDIAGNOSIS_URL}?${params.toString()}`;
+}
