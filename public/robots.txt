@@ -26,4 +26,4 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://insights.performa.co.id/sitemap.xml
+Sitemap: https://www.performa.co.id/sitemap.xml

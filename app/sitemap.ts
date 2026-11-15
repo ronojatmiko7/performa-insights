@@ -8,6 +8,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const newest = posts[0] ? new Date(posts[0].updated ?? posts[0].date) : new Date();
 
   return [
+    // The main site (www.performa.co.id) serves this sitemap, so its own key pages are listed here too.
+    { url: `${SITE_URL}/`, lastModified: newest, changeFrequency: "weekly", priority: 1 },
+    { url: `${SITE_URL}/prediagnosis`, lastModified: newest, changeFrequency: "monthly", priority: 0.9 },
     {
       url: `${SITE_URL}${POSTS_PATH}`,
       lastModified: newest,
